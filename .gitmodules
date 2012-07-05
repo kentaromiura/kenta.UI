@@ -1,0 +1,3 @@
+[submodule "xtag"]
+	path = xtag
+	url = https://github.com/mozilla/x-tag.git
